@@ -8,4 +8,4 @@
 ## Tecnologias que estou estudando
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,cs,mysql,html,css,)](https://skillicons.dev)
